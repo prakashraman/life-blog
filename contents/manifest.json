@@ -2,12 +2,12 @@
   "notes": [
     {
       "id": 1,
-      "title": "Hello to the world",
-      "handle": "1-hello-world",
-      "path": "contents/notes/2020/9/14/1-hello-world.md",
-      "createdAt": "2020-10-13T22:13:19.463Z",
-      "publishedAt": "2020-10-13T22:13:19.463Z"
+      "title": "We love bacon",
+      "handle": "1-we-love-bacon",
+      "path": "contents/notes/2020/9/18/1-we-love-bacon.md",
+      "createdAt": "2020-10-18T19:55:55.373Z",
+      "publishedAt": "2020-10-18T19:55:55.373Z"
     }
   ],
-  "createdAt": "2020-10-13T22:13:01.850Z"
+  "createdAt": "2020-10-18T19:55:38.497Z"
 }
