@@ -1,3 +1,3 @@
 **Notes**
 
-prakashraman.info // prakash.raman.ka@gmail.com
+[prakashraman.info](http://prakashraman.info)
