@@ -9,7 +9,7 @@ This is were Flutter is incredible: While we are editing our code, we can “hot
 
 Let us see how Flutter scores on the following:
 
-## 1. Development Speed: 👍
+### 1. Development Speed: 👍
 Probably the fastest I have seen, including web frames which can auto-detect file changes and reload the webpage.
 
 Hint: See that you have the “editor”, “terminal” and “simulator” all visible at the same time on the screen. Then you can pretty much edit code while looking at the simulator.

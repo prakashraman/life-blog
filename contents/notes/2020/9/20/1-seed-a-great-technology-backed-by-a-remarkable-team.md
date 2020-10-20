@@ -1,6 +1,6 @@
 Seed is a fully-managed-code pipeline for Serverless application. The front men of Seed Frank Wang and Jay V, and are backed by a very impressive board. Before we get to more on Seed, let us talk little about Serverless.
 
-## Introducing PaaS, Serverless, and Lambda
+### Introducing PaaS, Serverless, and Lambda
 
 With Heroku, Beanstalk and other PaaS solutions out there, we now find parts of application development (primarily APIs, micro-services) extremely quick and deployment and management much easier.
 
