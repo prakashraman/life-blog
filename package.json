@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/prakashraman/life-blog#readme",
   "dependencies": {
-    "@prakashraman/notes": "^0.4.0"
+    "@prakashraman/notes": "^0.5.1"
   }
 }
