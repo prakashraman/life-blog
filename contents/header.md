@@ -1,3 +1,1 @@
-**Notes**
-
-[prakashraman.info](http://prakashraman.info)
+[about me](./pages/about-me.html)
