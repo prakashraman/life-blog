@@ -1,1 +1,1 @@
-<small>[prakashraman.info](http://prakashraman.info)</small>
+[prakashraman.info](http://prakashraman.info) &middot; [linkedin](https://www.linkedin.com/in/prakash-raman-a68541b/) &middot; [github](https://github.com/prakashraman)
