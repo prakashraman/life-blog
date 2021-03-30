@@ -1,4 +1,4 @@
-Nowadays writing test cases has become more of practice which doesn’t which is not supported by a strong reason. However even though when most team implement this practice, is seems slightly unfounded or is based reason not  strong enough. Either way, it still contributes a huge value to software quality and software development.
+Nowadays writing test cases has become more of a practice which doesn’t which is not supported by a strong reason. However even though most teams implement this practice, is seems slightly unfounded or is based on reasons not strong enough. Either way, it still contributes a huge value to software quality and software development.
 
 #### Test Suite Strategy
 
