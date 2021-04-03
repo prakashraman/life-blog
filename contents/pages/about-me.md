@@ -5,7 +5,7 @@ Co-founder and Head of Engineering of a SaaS networking platform, forEva, in 201
 Built an open-source markdown blogging platform [@prakashraman/notes](https://github.com/prakashraman/notes) - [https://github.com/prakashraman/notes](https://github.com/prakashraman/notes)
 
 
-I am a minimalist. Extremely bullish on [Holochain](https://holochain.org/) and [Ontology](https://ont.io/). Fell in love with wine since we moved to Belgium. Lose control every month or so and go on a rampage of chocolate and cake. Monday evening ritual of cooking [Vietnamese Pho Ga](https://www.youtube.com/watch?v=VHapXkBNuTc).
+I am a minimalist. Extremely bullish on [Holochain](https://holochain.org/) and [Ontology](https://ont.io/). Fell in love with wine since we moved to Belgium. Lose control every month or so and go on a rampage of chocolate and cake. Monday evening therapeutic ritual of cooking [Vietnamese Pho Ga](https://www.youtube.com/watch?v=VHapXkBNuTc).
 
 email: [prakash.raman.ka@gmail.com](mailto:prakash.raman.ka@gmail.com) <br>
 phone: [+32 489 904 728](tel:+32489904728)
