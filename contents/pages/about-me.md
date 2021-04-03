@@ -4,7 +4,7 @@ Co-founder and Head of Engineering of a SaaS networking platform, forEva, in 201
 
 Built an open-source markdown blog-website platform [@prakashraman/notes](https://github.com/prakashraman/notes). And guess what! This website is built using the `@prakashraman/notes` platform I created! :)
 
-Platform - https://github.com/prakashraman/notes
+Platform - [https://github.com/prakashraman/notes](https://github.com/prakashraman/notes)
 
 <hr>
 
