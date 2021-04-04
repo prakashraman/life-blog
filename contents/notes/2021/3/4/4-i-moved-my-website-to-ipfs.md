@@ -2,6 +2,9 @@ Until now my goto cloud provider for static webapps were [Netlify](https://www.n
 
 Since the advent of working blockchain solutions and interest and efforts towards Web3.0, it was only time before we would have solutions for deploying professional webapps on a distributed network. And that time is here. I think this is a notable event in the life of Web3.0, particularly as it enables many of us to migrate our existing projects from traditional centralized organizations (e.g AWS, GCP, Azure, etc) over to a distributed network! 
 
+<!-- Hidden as this image is only intended to be fetched for preview generators -->
+<img src="https://i.imgur.com/U1PADYS.png" height=0 width=0>
+
 ### What is IPFS
 
 [IPFS](https://ipfs.io/) is a distributed system for storing and accessing files, websites, applications, and data. [1]
