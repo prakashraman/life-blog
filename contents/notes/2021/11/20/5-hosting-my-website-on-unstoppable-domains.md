@@ -52,9 +52,13 @@ Let's say the domain is "prakashraman.x" if a user where to type this in their t
 So, now what? 
 
 #### Browser
-This leaves us with a situation where when there is no DNS entry which resovles "prakashraman.x" to an IP we would need, this magic would need to happen right in the browser itself. The end users would need to use a browser which resolves an unstoppabledomain to a IPFS accessible file. But do we have such a browser? Yes! And many of us are already using them - (Brave)[https://brave.com/] and (Opera)[https://www.opera.com/].
+This leaves us with a situation where when there is no DNS entry which resovles "prakashraman.x" to an IP we would need, this magic would need to happen right in the browser itself. The end users would need to use a browser which resolves an unstoppabledomain to a IPFS accessible file. But do we have such a browser? Yes! And many of us are already using them - [Brave](https://brave.com/) and [Opera](https://www.opera.com/).
 
 #### Browser Extension
-Unstopabledomains have released (extensions)[https://unstoppabledomains.com/extension] for Chrome and Firefox which can handle the domain resolutions. 
+Unstopabledomains have released [extensions](https://unstoppabledomains.com/extension) for Chrome and Firefox which can handle the domain resolutions. 
 
+Does this mean, for anyone to access your unstopabledomain website would either need to install Brave, Opera or the extension? Yes, that would be needed indeed. Which might sound like an impractical requirement, however as the world adopts and adapts to Web3 all browsers will (or should) start supporting unstopabledomains resolutions. 
 
+So until then, yes, I am definitely installing the extension AND using Brave as well!
+
+This website is acessiable via https://prakashraman.x 😊
