@@ -19,7 +19,7 @@ Steps
 1. Create a website (static). Let's start with a simple "index.html" page
 1. Purchase a domain on unstoppabledomains
 1. Add and pin your index.html page onto IPFS (yes, this is one of key the differences)
-3.1 Note down the IPFS hash for the index.html
+    Note down the IPFS hash for the index.html
 1. Mint your domain
 1. Link your domain using the IPFS hash (from earlier)
 1. Enter your domain in the address bar of an unstoppabledomains browser. Or install the unstoppabledomains extension in your Chrome, Brave, etc (yes, this is the other key difference)
