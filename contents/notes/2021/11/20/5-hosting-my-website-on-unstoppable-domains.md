@@ -38,12 +38,12 @@ However, you might not be looking to host your website files on your own system,
 
 On pinning your website files (or folder) to the IPFS network, you will receive an "IPFS hash". Mention this hash in the domain manager in upstopabledomains.
 
-unstopabledomains > my domains > manage domain "x" > website
+unstoppabledomains > my domains > manage domain "x" > website
 
 ![](https://gateway.pinata.cloud/ipfs/Qmdr8r1hFYrRxugPeK6WDe9pue4huDNN1Y7cq8LboZEQke)
 
 
-### Accessing the website - Unstopabledomains extension | Unstopabledomains browser
+### Accessing the website - Unstoppabledomains extension | Unstoppabledomains browser
 
 Now coming to the last part of the puzzle which addresses how an end user can view your website on their web browser. 
 
@@ -57,9 +57,9 @@ This leaves us in a situation where when there is no DNS entry which resovles "p
 The end users would need to use a browser which resolve unstoppabledomain domains to a IPFS accessible file. But do we have such a browser? Yes! And many of us are already using them - [Brave](https://brave.com/) and [Opera](https://www.opera.com/).
 
 #### Browser Extension
-Unstopabledomains have released [extensions](https://unstoppabledomains.com/extension) for Chrome and Firefox which can handle the domain resolution. 
+unstoppabledomains have released [extensions](https://unstoppabledomains.com/extension) for Chrome and Firefox which can handle the domain resolution. 
 
-Does this mean, for anyone to access your unstopabledomain website would either need to install Brave, Opera or the extension? Yes, that would be needed indeed. Which might sound quite impractical, and yes, to an extent it would be. However as the world adopts and adapts to Web3 all browsers will (or should) start supporting unstopabledomains resolutions. 
+Does this mean, for anyone to access your unstoppabledomains website would either need to install Brave, Opera or the extension? Yes, that would be needed indeed. Which might sound quite impractical, and yes, to an extent it would be. However as the world adopts and adapts to Web3 all browsers will (or should) start supporting unstoppabledomains resolutions. 
 
 So until then, yes, I am definitely installing the extension AND using Brave as well!
 
