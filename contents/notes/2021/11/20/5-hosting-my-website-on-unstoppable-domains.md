@@ -4,7 +4,7 @@ Next, in my experiments of adopting more Web3 practices I looked into [unstoppab
 
 I inferred that there is a solution in the works where the ownership of a domain would be stored on a blockchain; which sounded pretty cool! And I thought all my websites could be managed via domains purchased on this service.
 
-It was not quite that. Yes, it does allow you to purchase a domain and have the domain resovle to your website; however the application/capability of unstoppabledomains were a lot more than that.
+It was not quite that. Yes, it does allow you to purchase a domain and have the domain resolve to your website; however the application/capability of unstoppabledomains were a lot more than that.
 
 _For the scope of this article I will only talk about hosting and resolving your website on an unstoppabledomain_
 
@@ -63,4 +63,4 @@ Does this mean, for anyone to access your unstoppabledomains website would eithe
 
 So until then, yes, I am definitely installing the extension AND using Brave as well!
 
-This website is acessiable via https://prakashraman.x 😊
+This website is accessible via https://prakashraman.x 😊
