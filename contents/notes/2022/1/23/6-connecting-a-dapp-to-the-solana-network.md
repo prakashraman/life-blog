@@ -1,6 +1,6 @@
 Let's assume for a bit we have an incredible idea for a Dapp (because its so easy to come up with great app ideas!). 
 
-It's typical for a Dapp to interact with blockchain. For this article let's consider a javascript Dapp that connects to the [Solana](https://solana.com/) network.
+It's typical for a Dapp to interact with a blockchain. For this article let's consider a javascript Dapp that connects to the [Solana](https://solana.com/) network.
 
 **Goal**: Successfully fetch the user's Solana address. 
 
@@ -36,6 +36,8 @@ Solana offers a [wallet adapter](https://github.com/solana-labs/wallet-adapter) 
 ### Step 1: Check if the wallet exists
 
 ```ts
+// yourdapp.js
+
 import { PhantomWalletAdapter } from '@solana/wallet-adapter-wallets'
 
 const wallet = new PhantomWalletAdapter()
@@ -46,9 +48,14 @@ wallet.readyState === "INSTALLED"
 
 ### Step 2: Connect to the wallet and retrieve the public key/address
 
-```ts
-await wallet.connect();
 
+When the browser executes the below line `wallet.connect()` it will open the Phantom Chrome Extension asking the user to give permission to the enclosing web application to retrieve its information.
+
+```ts
+// yourdapp.js
+
+...
+await wallet.connect();
 wallet.publicKey.toString()
 
 // A8WHmLMXHjQEb7VHjs4vu9B66NQNxrEDq2g84GmDGmhd
@@ -60,6 +67,7 @@ wallet.publicKey.toString()
 Now your Dapp has the user's address, it can store it locally or can send the address to its backend and do what it wants with it! Maybe airdrop some SOL to it! :D
 
 And voila the Dapp is connected to the Solana network!
+
 
 ## Question!
 
