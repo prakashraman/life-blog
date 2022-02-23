@@ -38,7 +38,8 @@ Solana offers a [wallet adapter](https://github.com/solana-labs/wallet-adapter) 
 ```ts
 // yourdapp.js
 
-import { PhantomWalletAdapter } from '@solana/wallet-adapter-wallets'
+import { PhantomWalletAdapter } 
+    from '@solana/wallet-adapter-wallets'
 
 const wallet = new PhantomWalletAdapter()
 
