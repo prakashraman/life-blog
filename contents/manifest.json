@@ -39,6 +39,14 @@
       "path": "contents/notes/2021/11/20/5-hosting-my-website-on-unstoppable-domains.md",
       "createdAt": "2021-12-20T19:56:14.370Z",
       "publishedAt": "2022-01-02T19:06:13.573Z"
+    },
+    {
+      "id": 6,
+      "title": "Connecting a Dapp to the Solana Network",
+      "handle": "6-connecting-a-dapp-to-the-solana-network",
+      "path": "contents/notes/2022/1/23/6-connecting-a-dapp-to-the-solana-network.md",
+      "createdAt": "2022-02-23T18:12:40.221Z",
+      "publishedAt": "2022-02-23T18:12:40.221Z"
     }
   ],
   "createdAt": "2021-03-28T18:04:12.933Z",
