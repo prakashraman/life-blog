@@ -8,9 +8,9 @@ _This article heavily uses the [@solana-labs/wallet-adapter](https://github.com/
 
 ## Ecosystem 
 
-The following components/systems come into play for a Dapp to interact with the Solana Network
+![](https://gateway.pinata.cloud/ipfs/QmPcsXKok9ptyEqGvkVsASxaCByD7eeYDhnnySwA6A77LQ)
 
-![](https://gateway.pinata.cloud/ipfs/QmRtYMBYT3hiocJYpUJyoRDjE5ppQEvdJkZsEdG3b8Vcvb)
+The following components/systems come into play for a Dapp to interact with the Solana Network
 
 1. yourdapp.js
 1. The desktop browser (yes, for now this needs to be on a Desktop)
