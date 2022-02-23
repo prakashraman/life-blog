@@ -4,6 +4,8 @@ It's typical for a Dapp to interact with blockchain. For this article let's cons
 
 **Goal**: Successfully fetch the user's Solana address. 
 
+_This article heavily uses the [@solana-labs/wallet-adapter](https://github.com/solana-labs/wallet-adapter) to interface with the Solana network and wallets_
+
 ## Ecosystem 
 
 The following components/systems come into play for a Dapp to interact with the Solana Network
@@ -27,7 +29,7 @@ Users can have multiple Solana Wallets (e.g [Phantom](https://phantom.app/), [So
 
 Therefore, now, the Dapp would need to write wallet specific code. Yeah, it seems a little tedious and impractical as we don't know which wallet the user would have installed in the browser. 
 
-Solana offers a wallet adapter abstraction which internally supports various wallets, thus making it a little easier. 
+Solana offers a [wallet adapter](https://github.com/solana-labs/wallet-adapter) abstraction which internally supports various wallets, thus making it a little easier. 
 
 ### Step 1: Check if the wallet exists
 
@@ -51,11 +53,28 @@ wallet.publicKey.toString()
 // yes, this is an address of mine on the solana devnet :)
 ```
 
+### Step 3: Operate on the public key
+
+Now your Dapp has the user's address, it can store it locally or can send the address to its backend and do what it wants with it! Maybe airdrop some SOL to it! :D
 
 And voila the Dapp is connected to the Solana network!
+
+## Question!
+
+**Does this mean every user on the internet must install and maintain a Solana wallet to use the Dapp?**
+
+Well if the Dapp connects to a Solana network then yes! But the considerations would be larger than that. Does the Dapp need to connect to a blockchain (i.e. Solana)? Does it need to run on a browser? Does it need user blockchain addresses?
+
+If the answer to the above is Yes, then, yes, users would need to have a wallet installed on the browser they use at the time they open your Dapp. 
+
+If you are thinking it does not seem that easy to use, you're right, it's not. However, the web3 ecosystem is growing and the interfaces into the web3 infrastructure is getting more native and inbuilt into the existing software we use daily.
+
+_We might indeed be earlier to the game. But hell, as long as we are in the game, the timing will always be right!_
 
 ---
 
 References: 
 
 - https://github.com/solana-labs/wallet-adapter
+- https://phantom.app/
+- https://solflare.com/
