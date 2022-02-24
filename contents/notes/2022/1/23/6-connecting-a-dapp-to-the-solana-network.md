@@ -44,7 +44,7 @@ import { PhantomWalletAdapter }
 const wallet = new PhantomWalletAdapter()
 
 wallet.readyState === "INSTALLED"
-//Phantom wallet is installed in this browser"
+// Phantom wallet is installed in this browser"
 ```
 
 ### Step 2: Connect to the wallet and retrieve the public key/address
@@ -60,7 +60,7 @@ await wallet.connect();
 wallet.publicKey.toString()
 
 // A8WHmLMXHjQEb7VHjs4vu9B66NQNxrEDq2g84GmDGmhd
-// yes, this is an address of mine on the solana devnet :)
+// yes, solana devnet address :)
 ```
 
 ### Step 3: Operate on the public key
