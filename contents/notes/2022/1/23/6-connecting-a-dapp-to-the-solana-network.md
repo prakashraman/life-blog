@@ -33,7 +33,7 @@ Therefore, now, the Dapp would need to write wallet specific code. Yeah, it seem
 
 Solana offers a [wallet adapter](https://github.com/solana-labs/wallet-adapter) abstraction which internally supports various wallets, thus making it a little easier. 
 
-### Step 1: Check if the wallet exists
+### Step 1: Check if the wallet browser extension is installed?
 
 ```ts
 // yourdapp.js
@@ -44,7 +44,8 @@ import { PhantomWalletAdapter }
 const wallet = new PhantomWalletAdapter()
 
 wallet.readyState === "INSTALLED"
-// Phantom wallet is installed in this browser"
+// Phantom wallet is installed
+// in this browser
 ```
 
 ### Step 2: Connect to the wallet and retrieve the public key/address
@@ -60,7 +61,7 @@ await wallet.connect();
 wallet.publicKey.toString()
 
 // A8WHmLMXHjQEb7VHjs4vu9B66NQNxrEDq2g84GmDGmhd
-// yes, solana devnet address :)
+// yes, my solana devnet address :)
 ```
 
 ### Step 3: Operate on the public key
@@ -80,12 +81,12 @@ If the answer to the above is Yes, then, yes, users would need to have a wallet 
 
 If you are thinking it does not seem that easy to use, you're right, it's not. However, the web3 ecosystem is growing and the interfaces into the web3 infrastructure is getting more native and inbuilt into the existing software we use daily.
 
-_We might indeed be earlier to the game. But hell, as long as we are in the game, the timing will always be right!_
+_We might indeed be early to the game. But hell, as long as we are in the game, the timing will always be right!_
 
 ---
 
 References: 
 
-- https://github.com/solana-labs/wallet-adapter
-- https://phantom.app/
-- https://solflare.com/
+- [https://github.com/solana-labs/wallet-adapter](https://github.com/solana-labs/wallet-adapter)
+- [https://phantom.app/](https://phantom.app/)
+- [https://solflare.com/](https://solflare.com/)
