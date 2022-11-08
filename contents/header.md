@@ -1,5 +1,5 @@
 ### Prakash Raman
 
-Antwerp, Belgium
+Toronto, Canada
 
 [about me](./pages/about-me.html)
